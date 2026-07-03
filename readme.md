@@ -10,5 +10,6 @@ this is the picture of it
 ![this picture](/media/wait_pic.png)
 
 This video of it: 
-![the video] (/media/waitting_screen.mp4)
+https://github.com/user-attachments/assets/1acd4eda-705c-4691-b9d7-5f3f78b14e77
+
 ### ENJOY IT
