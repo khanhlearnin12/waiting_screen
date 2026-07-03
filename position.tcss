@@ -1,0 +1,12 @@
+Screen {
+  align: center middle;
+}
+
+Label {
+  border-bottom: solid blue;
+}
+
+
+Digits {
+  width: auto;
+}
